@@ -1,0 +1,15 @@
+../Src/main.c:146:9:get_number_from_key	12
+../Src/main.c:162:9:get_key_from_number	11
+../Src/main.c:178:5:main	28
+../Src/main.c:434:6:delay_ms	2
+../Src/main.c:441:6:actualizar_valores	9
+../Src/main.c:513:9:decoder	12
+../Src/main.c:531:6:decimal_decoder	2
+../Src/main.c:541:9:USART2_read	2
+../Src/main.c:547:6:USART2_write	2
+../Src/main.c:553:6:USART2_putstring	2
+../Src/main.c:562:6:USART2_putstring_E	2
+../Src/main.c:573:6:mostrar_resultado_division	1
+../Src/main.c:579:6:mostrar_resultado_multiplicacion	1
+../Src/main.c:585:6:mostrar_resultado_resta	1
+../Src/main.c:591:6:mostrar_resultado_suma	1

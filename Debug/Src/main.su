@@ -1,0 +1,15 @@
+../Src/main.c:146:9:get_number_from_key	16	static
+../Src/main.c:162:9:get_key_from_number	16	static
+../Src/main.c:178:5:main	248	static
+../Src/main.c:434:6:delay_ms	24	static,ignoring_inline_asm
+../Src/main.c:441:6:actualizar_valores	72	static
+../Src/main.c:513:9:decoder	24	static
+../Src/main.c:531:6:decimal_decoder	16	static
+../Src/main.c:541:9:USART2_read	8	static
+../Src/main.c:547:6:USART2_write	16	static
+../Src/main.c:553:6:USART2_putstring	16	static
+../Src/main.c:562:6:USART2_putstring_E	16	static
+../Src/main.c:573:6:mostrar_resultado_division	80	static
+../Src/main.c:579:6:mostrar_resultado_multiplicacion	80	static
+../Src/main.c:585:6:mostrar_resultado_resta	80	static
+../Src/main.c:591:6:mostrar_resultado_suma	80	static
