@@ -1,5 +1,7 @@
 Proyecto STM32 Display y Teclado Matricial
 
+CAMBIAR A RAMA MASTER
+
 Descripción
 
 Este proyecto implementa un sistema de visualización y entrada utilizando un microcontrolador STM32. Se utiliza un teclado matricial para la entrada de datos y displays de 7 segmentos para mostrar la información. El código configura los puertos GPIO del microcontrolador para manejar tanto los displays como el teclado.
